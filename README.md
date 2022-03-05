@@ -4,3 +4,4 @@
 - Corner detection using Harris Corner detection (Corner detection.ipynb)
 - Improved Corner Detection using - Good Features to Track (Corner detection.ipynb)
 - Advanced Corner Detection using - SIFT,FAST,BRIEF,ORB (Advanced corner detectors.ipynb)
+- Feature Matching and Detection. With feature detectors like SIFT,FAST and ORB get the Keypoints in the image, later match the keypoints between both the images using BruteForce matcher technique. Descriptors is used for matching the keypoints, descriptors are the array of values of the detected features (Feature Detection and matching.ipynb)
