@@ -3,3 +3,4 @@
 - With Haar Cascading approach, detection of face, eye and smile detection (Haar Cascades.ipynb)
 - Corner detection using Harris Corner detection (Corner detection.ipynb)
 - Improved Corner Detection using - Good Features to Track (Corner detection.ipynb)
+- Advanced Corner Detection using - SIFT,FAST,BRIEF,ORB (Advanced corner detectors.ipynb)
